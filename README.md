@@ -1,5 +1,10 @@
 # Mini EP 7
 
+## Autoria
+
+**Nome:** Ana Yoon Faria de Lima  
+**NUSP:** 11795279
+
 Testes são uma especificação?
 ---
 
